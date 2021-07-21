@@ -1,0 +1,1 @@
+netsh wlan connect ssid=VIVOFIBRA-VB name=VIVOFIBRA-VB
